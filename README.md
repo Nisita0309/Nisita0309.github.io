@@ -9,4 +9,4 @@
 
 [ENCRYPTION](encryption)
 
-[My Friend](https://github.com/Tintin1906/6530250425.github.io)
+[My Friend](https://tintin1906.github.io/6530250425.github.io/)
