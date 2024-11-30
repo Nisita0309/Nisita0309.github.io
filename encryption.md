@@ -26,5 +26,4 @@ Encryption
 - Sample in Daily life
   - โปรแกรมหรือเครื่องมือเข้ารหัส เช่น VeraCrypt หรือ BitLocker เพื่อเข้ารหัสไฟล์หรือไดรฟ์ของตนเอง
  
-
-[My Friend](https://nisita0309.github.io/Nisita.github.io/encryption) 
+[My Friend](https://tintin1906.github.io/6530250425.github.io/)
