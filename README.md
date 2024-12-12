@@ -3,7 +3,7 @@
 - nisita
   - nat
 
-![alt text](IMG_6729.jpeg)
+![alt text](image/IMG_6729.jpeg)
 
 [AUTHENTICATION](authentication)
 
