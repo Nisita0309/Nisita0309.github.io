@@ -9,4 +9,4 @@
 
 [ENCRYPTION](encryption)
 
-[Merry Christmas & Happy New Year](e-cardMerryHappy)
+:tada: [Merry Christmas & Happy New Year](e-cardMerryHappy)
