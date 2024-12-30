@@ -1,6 +1,6 @@
 <center><h1>VALIDITY</h1></center> 
 
-**Definition by [secoda]([https://atlan.com/what-is-data-validity/](https://www.secoda.co/glossary/data-validity))**
+**Definition by [secoda](https://www.secoda.co/glossary/data-validity)**
 
 - Validity: Data validity is a measure of how accurate and reliable information is in a database or dataset. It ensures that data is trustworthy and suitable for its intended purpose by verifying that it meets specific standards, rules, or constraints. Valid data allows researchers to make informed decisions and draw accurate conclusions. Invalid data can lead to inaccurate conclusions and negatively impact analytics, making data validity crucial for effective data analysis and research.
 
