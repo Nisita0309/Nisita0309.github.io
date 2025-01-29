@@ -24,4 +24,4 @@ Clickที่ภาพเพื่อดูบรรยากาศการจ
 2. [Pariyakorn Kullama](https://tintin1906.github.io/boardgame )
 3. [Kanokwan Riamsri](https://aomknw.github.io/boardgame)
 4. [Chitlada Prasroetsang]()
-5. [Panissara Boonparkorb](https://Panissaraaa.github.io/boardgame)
+5. [Panissara Boonparkorb](https://panissaraaa.github.io/boardgame)
